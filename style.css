@@ -1,0 +1,29 @@
+.table2 { 
+    background-image: radial-gradient( grey, lightblue);
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+
+.button {
+    background-color: white;
+    border-color: Blue;
+    border-radius: 12px;
+    width: 100px;
+    height: 30px;
+}
+
+.table3 {
+    background-image: linear-gradient(grey, lightblue);
+    width: 70%;
+    font-family:  sans-serif;
+    border-radius: 10px;
+}
+body {
+  background-color: #f5f5f5;
+  background-image: Radial-gradient( #f5f5f5, #2eacd4);
+
+}
+
+img{
+    border-radius: 120px;
+}
